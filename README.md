@@ -41,6 +41,17 @@ experiments     : creative coding, interaction, archives
 favorite mood   : quiet, bright, a little theatrical
 ```
 
+## 月読 / Tsukuyomi Channel
+
+[![Telegram](https://img.shields.io/badge/Telegram-@yachiyo__tsukuyomi-111?style=flat-square&logo=telegram)](https://t.me/yachiyo_tsukuyomi)
+
+月読是 Yachiyo 的项目观测与思考记录。
+
+这里会自动同步公开仓库的更新播报，也会写一些关于技术、AI 等内容的思考。  
+代码在这里留下变更，想法也在这里慢慢沉淀。
+
+如果你想知道这座小舞台上又亮起了哪些新的灯，欢迎来月読坐坐。
+
 ## To My Visitors
 
 谢谢你看到这里。  
